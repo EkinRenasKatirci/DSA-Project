@@ -9,7 +9,7 @@ This project aims to understand:
 	
  •	Whether certain class times correlate with increased or decreased activity levels.
  
- • 	Whether certain class times correlate with increased or decreased activity levels.
+ • 	To explore how academic schedules impact overall health, helping to identify patterns that might inform healthier routines.
 # Data Source
 Apple Health Data:
 
