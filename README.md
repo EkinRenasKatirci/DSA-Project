@@ -1,6 +1,6 @@
 # DSA-Project
 # Description
-Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on my own Health usage. This project is an analysis of my personal health data collected via Apple Health.
+Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project focuses on analyzing my personal health data collected via Apple Health.
 # Motivation
 As a university student, my daily routine is heavily influenced by my academic schedule.
 This project aims to understand:
