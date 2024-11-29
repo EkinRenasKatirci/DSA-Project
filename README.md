@@ -31,6 +31,3 @@ Includes:
 	
  •	Free Days: Days without any scheduled lectures.
 
-Final Processed Data
-
-The cleaned and preprocessed data can be found in the data/ folder.
