@@ -13,16 +13,21 @@ Apple Health Data:
 
 Collected directly from my iPhone via Apple Health export feature.
 Contains the following metrics:
-	•	Steps: Total daily steps.
-	•	Calories Burned: Active energy expenditure.
-	•	Sleep Data: Total sleep duration and sleep quality metrics.
+	
+ •	Steps: Total daily steps.
+
+ •	Calories Burned: Active energy expenditure.
+
+ •	Sleep Data: Total sleep duration and sleep quality metrics.
 
 Academic Schedule:
 
 Manually created based on my semester course timetable.
 Includes:
-	•	Lecture Days and Times: Specific days and hours for each course.
-	•	Free Days: Days without any scheduled lectures.
+	
+ •	Lecture Days and Times: Specific days and hours for each course.
+	
+ •	Free Days: Days without any scheduled lectures.
 
 Final Processed Data
 
