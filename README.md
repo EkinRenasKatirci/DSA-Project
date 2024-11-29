@@ -4,8 +4,10 @@ Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Ter
 # Motivation
 As a university student, my daily routine is heavily influenced by my academic schedule.
 This project aims to understand:
-	•	How my physical activity levels vary on lecture days versus non-lecture days.
-	•	Whether certain class times correlate with increased or decreased activity levels.
+	
+ •	How my physical activity levels vary on lecture days versus non-lecture days.
+	
+ •	Whether certain class times correlate with increased or decreased activity levels.
 # Data Source
 Apple Health Data:
 
