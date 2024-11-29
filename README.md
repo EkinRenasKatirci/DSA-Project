@@ -13,7 +13,7 @@ This project aims to understand:
 # Data Source
 Apple Health Data:
 
-Collected directly from my iPhone via Apple Health between 2023-2024 export feature.
+Collected directly from my iPhone via the Apple Health export feature for the year 2024.
 Contains the following metrics:
 	
  •	Steps: Total daily steps.
