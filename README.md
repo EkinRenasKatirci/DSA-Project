@@ -37,9 +37,11 @@ Includes:
 The analysis will proceed through the following stages to investigate the relationship between my health metrics and my academic schedule:
 ### Data Collection
 Apple Health Data:
+
 Exported from the Health app in XML format and preprocessed into a structured format (e.g., CSV).Includes:
 	
  •	Steps and calories burned with timestamps.
+
 Academic Schedule Data:
 Manually organized into a JSON file containing:
 	
