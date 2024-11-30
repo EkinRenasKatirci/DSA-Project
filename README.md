@@ -30,5 +30,4 @@ Includes:
  •	Lecture Days and Times: Specific days and hours for each course.
 	
  •	Free Days: Days without any scheduled lectures.
-
-#Tools
+ ## Tools
