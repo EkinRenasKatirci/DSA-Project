@@ -52,6 +52,7 @@ Manually organized into a JSON file containing:
 
 Objective:
 Determine the relationship between health metrics and academic schedule.
+
 Daily Patterns:
 
 •	Analyzing activity levels on lecture days versus free days.
