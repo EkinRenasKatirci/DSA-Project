@@ -1,7 +1,7 @@
 # DSA-Project
 ## Description
 Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
-This project focuses on analyzing the relationship between my health metrics and academic schedule. The goal is to understand how my physical activity, and energy expenditure are influenced by lecture days, workloads, and overall university schedule
+This project focuses on analyzing the relationship between my health metrics and academic schedule. The goal is to understand how my physical activity, and energy expenditure are influenced by lecture days, workloads, and overall university schedule.
 ## Motivation
 While brainstorming for this project, I realized that I could explore the connection between my health habits and my academic routine. As a student, my daily routine is heavily shaped by lecture times, class durations.
 
