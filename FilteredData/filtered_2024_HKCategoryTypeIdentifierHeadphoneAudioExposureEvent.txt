@@ -1,0 +1,50 @@
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="17.5.1" creationDate="2024-08-08 07:39:44 +0300" startDate="2024-08-01 07:39:44 +0300" endDate="2024-08-08 07:39:44 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.14 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7007.81 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="17.5.1" creationDate="2024-08-10 12:54:14 +0300" startDate="2024-08-08 07:39:44 +0300" endDate="2024-08-10 12:54:14 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="90.2804 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="13622.2 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="17.5.1" creationDate="2024-08-10 19:47:07 +0300" startDate="2024-08-10 12:54:14 +0300" endDate="2024-08-10 19:47:07 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.4527 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="12146.5 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="17.5.1" creationDate="2024-08-13 22:47:40 +0300" startDate="2024-08-10 19:47:07 +0300" endDate="2024-08-13 22:47:40 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="87.5592 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="25291.5 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="17.5.1" creationDate="2024-08-19 13:05:12 +0300" startDate="2024-08-13 22:47:40 +0300" endDate="2024-08-19 13:05:12 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="88.0019 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="22818.9 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="17.5.1" creationDate="2024-08-19 23:15:57 +0300" startDate="2024-08-19 13:05:12 +0300" endDate="2024-08-19 23:15:57 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="94.4975 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5144.5 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="18.0.1" creationDate="2024-10-26 13:01:04 +0300" startDate="2024-10-19 12:57:46 +0300" endDate="2024-10-26 13:01:04 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="88.8475 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="18811.8 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="18.0.1" creationDate="2024-11-02 21:29:09 +0300" startDate="2024-10-26 21:29:08 +0300" endDate="2024-11-02 21:29:09 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="88.7005 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="19578.8 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="18.0.1" creationDate="2024-11-02 22:03:47 +0300" startDate="2024-11-02 21:29:09 +0300" endDate="2024-11-02 22:03:47 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="98.4518 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="2066.94 s"/>
+ </Record>
+ 
+<Record type="HKCategoryTypeIdentifierHeadphoneAudioExposureEvent" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="18.0.1" creationDate="2024-11-22 11:02:44 +0300" startDate="2024-11-15 10:57:24 +0300" endDate="2024-11-22 11:02:44 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.8596 dBASPL"/>
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="9394.22 s"/>
+ </Record>
+ 
