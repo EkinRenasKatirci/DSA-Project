@@ -46,7 +46,7 @@ Academic Schedule Data:
 
 Manually organized into a JSON file containing:
 	
- •	Course names, time slots, lecture locations, and key exam dates.
+ •	Course names, time slots, lecture locations.
  ### Data Cleaning
 
 •	Removed incomplete or erroneous entries (e.g., missing health data or incomplete lecture details).
