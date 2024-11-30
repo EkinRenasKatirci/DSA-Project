@@ -1,83 +1,83 @@
-#DSA-Project
+# DSA-Project
 
-##Description
+## Description
 
-Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project focuses on analyzing the relationship between my health metrics and academic schedule. The goal is to understand how my physical activity, and energy expenditure are influenced by lecture days, workloads, and overall university schedule.
+Sabancı University **DSA210: Introduction to Data Science Course** Fall 2024-2025 Term Project.  
+This project focuses on analyzing the relationship between my health metrics and academic schedule.  
+The goal is to understand how my physical activity, energy expenditure, and sleep patterns are influenced by lecture days, workloads, and overall university schedule.
 
-##Motivation
+---
 
-While brainstorming for this project, I realized that I could explore the connection between my health habits and my academic routine. As a student, my daily routine is heavily shaped by lecture times, class durations.
+## Motivation
+
+While brainstorming for this project, I realized that I could explore the connection between my health habits and my academic routine. As a student, my daily routine is heavily shaped by lecture times and class durations.
 
 The motivation behind this analysis is to uncover patterns such as:
+- **How my physical activity levels vary on lecture days versus non-lecture days.**
+- **Whether certain class times correlate with increased or decreased activity levels.**
+- **How academic schedules impact overall health, helping to identify patterns that might inform healthier routines.**
 
-• How my physical activity levels vary on lecture days versus non-lecture days.
+---
 
-• Whether certain class times correlate with increased or decreased activity levels.
+## Data Source
 
-• To explore how academic schedules impact overall health, helping to identify patterns that might inform healthier routines.
-
-##Data Source
-
-Apple Health Data:
-
+### **1. Apple Health Data**:
 Collected directly from my iPhone via the Apple Health export feature for the year 2024. Contains the following metrics:
+- **Steps**: Total daily steps.
+- **Calories Burned**: Active energy expenditure.
+- **Sleep Data**: Total sleep duration and consistency.
 
-• Steps: Total daily steps.
+### **2. Academic Schedule**:
+Collected from my university's management system. It includes:
+- **Lecture Days and Times**: Specific days, hours, and locations for each course.
+- **Free Days**: Days without scheduled lectures.
 
-• Calories Burned: Active energy expenditure.
+---
 
-Academic Schedule:
+## Tools
 
-Collected from my university's management system. It contains details such as course names, time slots, and class locations. Includes:
+- **Jupyter Notebook**: Used for coding, processing, and documentation.
+- **Pandas**: For data cleaning, filtering, and structuring.
+- **Matplotlib and Seaborn**: For data visualization in Python.
+- **Numpy**: For mathematical operations.
 
-• Lecture Days and Times: Specific days and hours for each course.
+---
 
-• Free Days: Days without any scheduled lectures.
+## Data Analysis
 
-##Tools
+The analysis will proceed through the following stages to investigate the relationship between my health metrics and academic schedule:
 
-Jupyter Notebook: Used for coding, processing, and documentation.
-Pandas: For data cleaning, filtering, and structuring.
-Matplotlib and Seaborn: For data visualization in python.
-Numpy: For mathematical operations.
-##Data Analysis
+### **1. Data Collection**
+- **Apple Health Data**:
+  - Exported from the Health app in XML format.
+  - Preprocessed into a structured format (e.g., CSV) to include metrics like steps, calories burned, sleep duration, and timestamps.
+- **Academic Schedule Data**:
+  - Manually organized into a JSON file containing course names, time slots, and lecture locations.
 
-The analysis will proceed through the following stages to investigate the relationship between my health metrics and my academic schedule:
+### **2. Data Cleaning**
+- Removed incomplete or erroneous entries (e.g., missing health data or incomplete lecture details).
+- Standardized timestamps to align Apple Health data and academic schedule data.
+- Categorized days into **lecture days** and **non-lecture days**.
 
-###Data Collection
+### **3. Exploratory Data Analysis (EDA)**
 
-Apple Health Data:
+**Objective:** Determine the relationship between health metrics and academic schedule.  
+#### **Daily Patterns**:
+- Analyzing activity levels on lecture days versus free days.
+- Exploring peak activity times during lecture hours and between classes.
 
-Exported from the Health app in XML format and preprocessed into a structured format (e.g., CSV).Includes:
+#### **Activity Trends**:
+- Investigating step counts before, during, and after lectures.
+- Comparing total calories burned on high-workload days versus low-workload days.
 
-• Steps and calories burned with timestamps.
+---
 
-Academic Schedule Data:
+## Research Questions
 
-Manually organized into a JSON file containing:
+1. How do physical activity levels vary between lecture days and free days?
+2. Are certain class times (e.g., morning vs. afternoon lectures) associated with higher or lower activity levels?
+3. How does sleep duration and consistency change based on lecture days and workloads?
+4. What is the relationship between academic workloads and calorie expenditure?
+5. How can insights from these metrics improve overall health and academic performance?
 
-• Course names, time slots, lecture locations.
-
-###Data Cleaning
-
-• Removed incomplete or erroneous entries (e.g., missing health data or incomplete lecture details).
-
-• Standardized timestamps to align both data sources.
-
-• Categorized lecture days and non-lecture days.
-
-###Exploratory Data Analysis (EDA)
-
-Objective: Determine the relationship between health metrics and academic schedule.
-
-Daily Patterns:
-
-• Analyzing activity levels on lecture days versus free days.
-
-• Exploring peak activity times during lecture hours and between classes.
-
-Activity Trends:
-
-• Investigating step counts before, during, and after lectures.
-
-• Comparing total calories burned on high-workload days versus low
+---
