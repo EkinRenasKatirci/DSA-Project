@@ -36,7 +36,7 @@ Collected from my university's management system. It includes:
 
 ## Tools
 
-- **[Jupyter Notebook](https://jupyter.org/):** : Used for coding, processing, and documentation.
+- **[Jupyter Notebook](https://jupyter.org/):**  Used for coding, processing, and documentation.
 - **[Pandas](https://pandas.pydata.org/):** For data cleaning, filtering, and structuring.
 - **[Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/):** For data visualization in Python.
 - **[Numpy](https://numpy.org/):** For mathematical operations.
