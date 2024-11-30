@@ -24,7 +24,7 @@ Contains the following metrics:
 
 Academic Schedule:
 
-Collected from university management system. It contains details such as course names, time slots, and class locations.
+Collected from my university's management system. It contains details such as course names, time slots, and class locations.
 Includes:
 	
  •	Lecture Days and Times: Specific days and hours for each course.
