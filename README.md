@@ -4,7 +4,7 @@
 
 Sabancı University **DSA210: Introduction to Data Science Course** Fall 2024-2025 Term Project.  
 This project focuses on analyzing the relationship between my health metrics and academic schedule.  
-The goal is to understand how my physical activity, energy expenditure, and sleep patterns are influenced by lecture days, workloads, and overall university schedule.
+The goal is to understand how my physical activity, energy expenditure are influenced by lecture days, workloads, and overall university schedule.
 
 ---
 
@@ -25,7 +25,6 @@ The motivation behind this analysis is to uncover patterns such as:
 Collected directly from my iPhone via the Apple Health export feature for the year 2024. Contains the following metrics:
 - **Steps**: Total daily steps.
 - **Calories Burned**: Active energy expenditure.
-- **Sleep Data**: Total sleep duration and consistency.
 
 ### **2. Academic Schedule**:
 Collected from my university's management system. It includes:
@@ -72,12 +71,9 @@ The analysis will proceed through the following stages to investigate the relati
 
 ---
 
-## Research Questions
+## Research Question
 
-1. How do physical activity levels vary between lecture days and free days?
-2. Are certain class times (e.g., morning vs. afternoon lectures) associated with higher or lower activity levels?
-3. How does sleep duration and consistency change based on lecture days and workloads?
-4. What is the relationship between academic workloads and calorie expenditure?
-5. How can insights from these metrics improve overall health and academic performance?
+- How do physical activity levels vary between lecture days and free days?
+
 
 ---
