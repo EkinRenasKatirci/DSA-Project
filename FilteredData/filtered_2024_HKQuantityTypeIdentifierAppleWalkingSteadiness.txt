@@ -1,0 +1,188 @@
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.0.8.0.5" device="&lt;&lt;HKDevice: 0x300406a30&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.1.2, creation date:2023-12-02 02:15:03 +0000&gt;" unit="%" creationDate="2024-01-10 09:09:44 +0300" startDate="2024-01-03 03:00:00 +0300" endDate="2024-01-10 03:00:00 +0300" value="0.999968">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.4.12.1.4" device="&lt;&lt;HKDevice: 0x300406a80&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.2.1, creation date:2024-01-15 16:33:18 +0000&gt;" unit="%" creationDate="2024-01-17 05:00:46 +0300" startDate="2024-01-10 03:00:00 +0300" endDate="2024-01-17 03:00:00 +0300" value="0.97402">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.4.12.1.4" device="&lt;&lt;HKDevice: 0x300406a80&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.2.1, creation date:2024-01-15 16:33:18 +0000&gt;" unit="%" creationDate="2024-01-24 04:44:15 +0300" startDate="2024-01-17 03:00:00 +0300" endDate="2024-01-24 03:00:00 +0300" value="0.92394">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.4.12.1.4" device="&lt;&lt;HKDevice: 0x300406a80&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.2.1, creation date:2024-01-15 16:33:18 +0000&gt;" unit="%" creationDate="2024-01-31 05:08:14 +0300" startDate="2024-01-24 03:00:00 +0300" endDate="2024-01-31 03:00:00 +0300" value="0.941378">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x3004062b0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3, creation date:2024-02-05 12:49:41 +0000&gt;" unit="%" creationDate="2024-02-07 09:00:21 +0300" startDate="2024-01-31 03:00:00 +0300" endDate="2024-02-07 03:00:00 +0300" value="0.935803">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x3004062b0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3, creation date:2024-02-05 12:49:41 +0000&gt;" unit="%" creationDate="2024-02-14 05:24:30 +0300" startDate="2024-02-07 03:00:00 +0300" endDate="2024-02-14 03:00:00 +0300" value="0.849533">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-02-21 11:31:28 +0300" startDate="2024-02-14 03:00:00 +0300" endDate="2024-02-21 03:00:00 +0300" value="0.922855">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-02-28 10:26:38 +0300" startDate="2024-02-21 03:00:00 +0300" endDate="2024-02-28 03:00:00 +0300" value="0.997976">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-03-06 13:49:44 +0300" startDate="2024-02-28 03:00:00 +0300" endDate="2024-03-06 03:00:00 +0300" value="0.950347">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-03-13 07:30:11 +0300" startDate="2024-03-06 03:00:00 +0300" endDate="2024-03-13 03:00:00 +0300" value="0.990286">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-03-20 07:06:35 +0300" startDate="2024-03-13 03:00:00 +0300" endDate="2024-03-20 03:00:00 +0300" value="0.985568">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-03-27 08:10:01 +0300" startDate="2024-03-20 03:00:00 +0300" endDate="2024-03-27 03:00:00 +0300" value="0.968239">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-04-03 11:13:04 +0300" startDate="2024-03-27 03:00:00 +0300" endDate="2024-04-03 03:00:00 +0300" value="0.981144">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.8.4" device="&lt;&lt;HKDevice: 0x300405f40&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.3.1, creation date:2024-02-14 04:39:11 +0000&gt;" unit="%" creationDate="2024-04-10 04:30:14 +0300" startDate="2024-04-03 03:00:00 +0300" endDate="2024-04-10 03:00:00 +0300" value="0.981683">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-04-17 07:00:52 +0300" startDate="2024-04-10 03:00:00 +0300" endDate="2024-04-17 03:00:00 +0300" value="0.974238">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-04-24 07:30:52 +0300" startDate="2024-04-17 03:00:00 +0300" endDate="2024-04-24 03:00:00 +0300" value="0.941287">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-05-01 08:30:50 +0300" startDate="2024-04-24 03:00:00 +0300" endDate="2024-05-01 03:00:00 +0300" value="0.94435">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-05-08 08:09:52 +0300" startDate="2024-05-01 03:00:00 +0300" endDate="2024-05-08 03:00:00 +0300" value="0.953302">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-05-15 03:35:48 +0300" startDate="2024-05-08 03:00:00 +0300" endDate="2024-05-15 03:00:00 +0300" value="0.941717">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-05-22 13:50:52 +0300" startDate="2024-05-15 03:00:00 +0300" endDate="2024-05-22 03:00:00 +0300" value="0.983211">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.12.17.0.4" device="&lt;&lt;HKDevice: 0x3004041e0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.4.1, creation date:2024-04-11 00:28:50 +0000&gt;" unit="%" creationDate="2024-05-29 09:18:26 +0300" startDate="2024-05-22 03:00:00 +0300" endDate="2024-05-29 03:00:00 +0300" value="0.982987">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-06-05 07:20:45 +0300" startDate="2024-05-29 03:00:00 +0300" endDate="2024-06-05 03:00:00 +0300" value="0.954768">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-06-12 14:44:06 +0300" startDate="2024-06-05 03:00:00 +0300" endDate="2024-06-12 03:00:00 +0300" value="0.977423">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-06-19 06:02:33 +0300" startDate="2024-06-12 03:00:00 +0300" endDate="2024-06-19 03:00:00 +0300" value="0.975283">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-06-26 10:51:42 +0300" startDate="2024-06-19 03:00:00 +0300" endDate="2024-06-26 03:00:00 +0300" value="0.936968">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-07-03 05:30:47 +0300" startDate="2024-06-26 03:00:00 +0300" endDate="2024-07-03 03:00:00 +0300" value="0.877483">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-07-10 09:05:08 +0300" startDate="2024-07-03 03:00:00 +0300" endDate="2024-07-10 03:00:00 +0300" value="0.866004">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-07-17 08:41:53 +0300" startDate="2024-07-10 03:00:00 +0300" endDate="2024-07-17 03:00:00 +0300" value="0.930083">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-07-24 05:01:13 +0300" startDate="2024-07-17 03:00:00 +0300" endDate="2024-07-24 03:00:00 +0300" value="0.928701">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-07-31 06:34:09 +0300" startDate="2024-07-24 03:00:00 +0300" endDate="2024-07-31 03:00:00 +0300" value="0.939675">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-08-07 05:04:46 +0300" startDate="2024-07-31 03:00:00 +0300" endDate="2024-08-07 03:00:00 +0300" value="0.905809">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-08-14 07:46:23 +0300" startDate="2024-08-07 03:00:00 +0300" endDate="2024-08-14 03:00:00 +0300" value="0.93575">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-08-21 05:50:14 +0300" startDate="2024-08-14 03:00:00 +0300" endDate="2024-08-21 03:00:00 +0300" value="0.95517">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.16" device="&lt;&lt;HKDevice: 0x3004068f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.5.1, creation date:2024-06-02 04:25:48 +0000&gt;" unit="%" creationDate="2024-08-28 08:32:39 +0300" startDate="2024-08-21 03:00:00 +0300" endDate="2024-08-28 03:00:00 +0300" value="0.929749">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.23" device="&lt;&lt;HKDevice: 0x3004054f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.6.1, creation date:2024-09-02 04:04:26 +0000&gt;" unit="%" creationDate="2024-09-04 10:19:24 +0300" startDate="2024-08-28 03:00:00 +0300" endDate="2024-09-04 03:00:00 +0300" value="0.934202">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2890.16.23" device="&lt;&lt;HKDevice: 0x3004054f0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:17.6.1, creation date:2024-09-02 04:04:26 +0000&gt;" unit="%" creationDate="2024-09-11 11:52:28 +0300" startDate="2024-09-04 03:00:00 +0300" endDate="2024-09-11 03:00:00 +0300" value="0.918896">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x3004057c0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0, creation date:2024-09-16 18:14:36 +0000&gt;" unit="%" creationDate="2024-09-20 00:34:54 +0300" startDate="2024-09-11 03:00:00 +0300" endDate="2024-09-18 03:00:00 +0300" value="0.90476">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x3004057c0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0, creation date:2024-09-16 18:14:36 +0000&gt;" unit="%" creationDate="2024-09-25 23:02:12 +0300" startDate="2024-09-18 03:00:00 +0300" endDate="2024-09-25 03:00:00 +0300" value="0.880489">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x3004057c0&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0, creation date:2024-09-16 18:14:36 +0000&gt;" unit="%" creationDate="2024-10-02 08:07:24 +0300" startDate="2024-09-25 03:00:00 +0300" endDate="2024-10-02 03:00:00 +0300" value="0.932851">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-10-09 07:45:10 +0300" startDate="2024-10-02 03:00:00 +0300" endDate="2024-10-09 03:00:00 +0300" value="0.934525">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-10-17 23:55:42 +0300" startDate="2024-10-09 03:00:00 +0300" endDate="2024-10-16 03:00:00 +0300" value="0.933567">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-10-23 05:02:35 +0300" startDate="2024-10-16 03:00:00 +0300" endDate="2024-10-23 03:00:00 +0300" value="0.990617">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-10-30 07:03:36 +0300" startDate="2024-10-23 03:00:00 +0300" endDate="2024-10-30 03:00:00 +0300" value="0.975479">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-11-06 08:22:46 +0300" startDate="2024-10-30 03:00:00 +0300" endDate="2024-11-06 03:00:00 +0300" value="0.968521">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-11-13 06:49:14 +0300" startDate="2024-11-06 03:00:00 +0300" endDate="2024-11-13 03:00:00 +0300" value="0.914405">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-11-20 06:10:10 +0300" startDate="2024-11-13 03:00:00 +0300" endDate="2024-11-20 03:00:00 +0300" value="0.96599">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
+<Record type="HKQuantityTypeIdentifierAppleWalkingSteadiness" sourceName="Ekin Renas iPhone&#x2019;u " sourceVersion="2946.0.38.0.5" device="&lt;&lt;HKDevice: 0x300404190&gt;, name:iPhone, manufacturer:Apple Inc., model:iPhone, hardware:iPhone15,2, software:18.0.1, creation date:2024-10-07 16:30:13 +0000&gt;" unit="%" creationDate="2024-11-27 09:04:51 +0300" startDate="2024-11-20 03:00:00 +0300" endDate="2024-11-27 03:00:00 +0300" value="0.961623">
+  <MetadataEntry key="HKAlgorithmVersion" value="2"/>
+ </Record>
+ 
