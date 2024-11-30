@@ -43,6 +43,7 @@ Exported from the Health app in XML format and preprocessed into a structured fo
  •	Steps and calories burned with timestamps.
 
 Academic Schedule Data:
+
 Manually organized into a JSON file containing:
 	
  •	Course names, time slots, lecture locations, and key exam dates.
