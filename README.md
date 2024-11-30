@@ -39,10 +39,12 @@ The analysis will proceed through the following stages to investigate the relati
 •	Apple Health Data:
 Exported from the Health app in XML format and preprocessed into a structured format (e.g., CSV).
 Includes:
-	•	Steps and calories burned with timestamps.
+	
+ •	Steps and calories burned with timestamps.
 Academic Schedule Data:
 Manually organized into a JSON file containing:
-	•	Course names, time slots, lecture locations, and key exam dates.
+	
+ •	Course names, time slots, lecture locations, and key exam dates.
  ### Data Cleaning
 
 •	Removed incomplete or erroneous entries (e.g., missing health data or incomplete lecture details).
