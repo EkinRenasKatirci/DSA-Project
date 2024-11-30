@@ -40,13 +40,15 @@ The analysis will proceed through the following stages to investigate the relati
 Exported from the Health app in XML format and preprocessed into a structured format (e.g., CSV).
 Includes:
 	•	Steps and calories burned with timestamps.
-	•	Academic Schedule Data:
+Academic Schedule Data:
 Manually organized into a JSON file containing:
 	•	Course names, time slots, lecture locations, and key exam dates.
  ### Data Cleaning
 
 •	Removed incomplete or erroneous entries (e.g., missing health data or incomplete lecture details).
+
 •	Standardized timestamps to align both data sources.
+
 •	Categorized lecture days and non-lecture days.
 ### Exploratory Data Analysis (EDA)
 
@@ -56,9 +58,11 @@ Determine the relationship between health metrics and academic schedule.
 Daily Patterns:
 
 •	Analyzing activity levels on lecture days versus free days.
+
 •	Exploring peak activity times during lecture hours and between classes.
 
 Activity Trends:
 
 •	Investigating step counts before, during, and after lectures.
+
 •	Comparing total calories burned on high-workload days versus low-workload days.
