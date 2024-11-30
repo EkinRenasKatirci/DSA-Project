@@ -52,12 +52,12 @@ Manually organized into a JSON file containing:
 
 Objective:
 Determine the relationship between health metrics and academic schedule.
-	•	Daily Patterns:
-	•	Analyzing activity levels on lecture days versus free days.
-	•	Exploring peak activity times during lecture hours and between classes.
-	•	Sleep Analysis:
-	•	Examining sleep patterns during exam weeks compared to regular weeks.
-	•	Identifying the impact of late-night study sessions on sleep quality.
-	•	Activity Trends:
-	•	Investigating step counts before, during, and after lectures.
-	•	Comparing total calories burned on high-workload days versus low-workload days.
+•	Daily Patterns:
+•	Analyzing activity levels on lecture days versus free days.
+•	Exploring peak activity times during lecture hours and between classes.
+•	Sleep Analysis:
+•	Examining sleep patterns during exam weeks compared to regular weeks.
+•	Identifying the impact of late-night study sessions on sleep quality.
+•	Activity Trends:
+•	Investigating step counts before, during, and after lectures.
+•	Comparing total calories burned on high-workload days versus low-workload days.
