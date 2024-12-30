@@ -82,10 +82,9 @@ The analysis will proceed through the following stages to investigate the relati
 ---
 ## Findings
 ### **1. Steps and Physical Activity**
-- A direct relationship exists between academic schedules and physical activity. Lecture-heavy days (e.g., Tuesdays and Fridays) lead to increased steps due to walking between classes, while non-lecture days show higher variability, reflecting unstructured movement.
+-Academic schedules influence activity, with lecture-heavy days increasing steps and non-lecture days showing variable movement.
 -Weekends demonstrate a steady increase in physical activity, likely tied to recreational or leisure activities.
 ### **2. Active Energy Burned**
-- Energy expenditure is consistent on weekdays, peaking on Fridays and weekends, which may indicate a shift towards voluntary physical activities outside academic commitments.
 - Structured lecture days provide a baseline of activity, while non-lecture days allow for higher energy output through leisure or sports.
 ### **3. Flights Climbed**:
 - Lecture days encourage moderate but consistent stair activity, often tied to class transitions.
