@@ -29,10 +29,9 @@ Collected from my university's management system. It includes:
 - **Lecture Days and Times**: Specific days, hours, and locations for each course.
 - **Free Days**: Days without scheduled lectures.
 ### **3. Graphs**: 
-The graphs were filtered to show the average weekdays between 25 September and 27 November and have been saved in the folder named "Average by Weekdays"  [View data on graphs](./FilteredData/Data Graphs
-/Average by Weekdays)
+The graphs were filtered to show the average weekdays between 25 September and 27 November and have been saved in the folder named "Average by Weekdays"  [View data on graphs](./FilteredData/Data_Graphs/Average_by_Weekdays)
 ### **4. Graph Generating Code**:
-The graph-generating code has been filtered to include data between 25 September and 27 November. The results, in both bar chart and line chart formats, have been saved in the directory: [View the python code for deriving graphs.](./Filtered_data/Data Graphs/Average by Weekdays/Graph_Codes/)
+The graph-generating code has been filtered to include data between 25 September and 27 November. The results, in both bar chart and line chart formats, have been saved in the directory: [View the python code for deriving graphs.](./Filtered_data/Data_Graphs/Average_by_Weekdays/Graph_Codes/)
 
 
 ---
@@ -81,3 +80,32 @@ The analysis will proceed through the following stages to investigate the relati
 
 
 ---
+## Findings
+**1.Steps and Physical Activity**:
+- A direct relationship exists between academic schedules and physical activity. Lecture-heavy days (e.g., Tuesdays and Fridays) lead to increased steps due to walking between classes, while non-lecture days show higher variability, reflecting unstructured movement.
+-Weekends demonstrate a steady increase in physical activity, likely tied to recreational or leisure activities.
+**2.Active Energy Burned**:
+- Energy expenditure is consistent on weekdays, peaking on Fridays and weekends, which may indicate a shift towards voluntary physical activities outside academic commitments.
+- Structured lecture days provide a baseline of activity, while non-lecture days allow for higher energy output through leisure or sports.
+**3.Flights Climbed**:
+- Lecture days encourage moderate but consistent stair activity, often tied to class transitions.
+- Non-lecture days exhibit spontaneous, intense activity peaks, reflecting unstructured movement.
+---
+## Future Directions
+**1.Enhanced Physical Activity During Lecture Days**:
+- Incorporate walking or light exercise between classes to increase movement and reduce sedentary behavior during academic hours.
+**2.Leverage Weekends for Physical Engagement**:
+- Students can utilize weekends for more diverse and intensive activities to maintain a balanced routine.
+**3.Further Analysis of Activity Patterns**:
+- Explore correlations between academic workload and physical activity over a broader timeline.
+- Examine how weather or external factors influence these trends to develop more tailored strategies for maintaining health and well-being during university life.
+---
+## Repository Structure
+**FilteredData/:**
+- Contains filtered health in (.csv) and academic schedule(.json) data.
+***FilteredData/DataGraphs/:**
+- Contains graphs of data on a monthly basis and monthly data graph generation python code.
+***FilteredData/DataGraphs/Average by Weekdays/:**
+- Contains data for research question 25 September - 27 November.
+***FilteredData/DataGraphs/Average by Weekdays/Graph_Codes/:**
+- Includes python code for visualization of the research question.
