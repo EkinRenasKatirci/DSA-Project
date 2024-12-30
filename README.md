@@ -105,7 +105,7 @@ The analysis will proceed through the following stages to investigate the relati
 ### FilteredData/DataGraphs/:
 - Contains graphs of data on a monthly basis and monthly data graph generation python code.
 ### FilteredData/DataGraphs/Average by Weekdays/:
-- Contains data graph for research question 25 September 2024 - 27 November 2024.
+- Contains data graph for research question between 25 September 2024 - 27 November 2024.
 ### FilteredData/DataGraphs/Average by Weekdays/Graph_Codes/:
 - Includes python code for visualization of the research question.
 ### DSA-210 Report.pdf:
