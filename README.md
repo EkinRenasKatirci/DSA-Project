@@ -22,9 +22,7 @@ The motivation behind this analysis is to uncover patterns such as:
 ## Data Source
 
 ### **1. Apple Health Data**:
-Collected directly from my iPhone via the Apple Health export feature for the year 2024. Contains the following metrics:
-- **Steps**: Total daily steps.
-- **Calories Burned**: Active energy expenditure.
+The data was collected directly from my iPhone using the Apple Health export feature and spans the years 2021 to 2024. It includes metrics such as step count, energy burned, and walking distance. The 2021-2023 data has been filtered to align the analysis with the Fall 2024 academic schedule. [View data in csv format](./Filtered_data)
 
 ### **2. Academic Schedule**:
 Collected from my university's management system. It includes:
