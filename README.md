@@ -31,7 +31,7 @@ Collected from my university's management system. It includes:
 ### **3. Graphs**: 
 The graphs were filtered to show the average weekdays between 25 September and 27 November and have been saved in the folder named "Average by Weekdays"  [View data on graphs](./FilteredData/Data%20Graphs/Average%20by%20Weekdays)
 ### **4. Graph Generating Code**:
-The graph-generating code has been filtered to include data between 25 September and 27 November. The results, in both bar chart and line chart formats, have been saved in the directory: [View the python code for deriving graphs.](./Filtered_data/Data%20Graphs/Average%20by%20Weekdays/Graph_Codes/)
+The graph-generating code has been filtered to include data between 25 September and 27 November. The results, in both bar chart and line chart formats, have been saved in the directory: [View the python code for deriving graphs.](./Filtered_data/Data%20Graphs/Average%20by%20Weekdays/GraphCodes/)
 
 
 ---
