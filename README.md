@@ -109,4 +109,4 @@ The analysis will proceed through the following stages to investigate the relati
 ### FilteredData/DataGraphs/Average by Weekdays/Graph_Codes/:
 - Includes python code for visualization of the research question.
 ### DSA-210 Report.pdf:
--Analysis of academic schedules' impact on physical activity patterns.
+- Analysis of academic schedules' impact on physical activity patterns.
