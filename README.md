@@ -82,8 +82,8 @@ The analysis will proceed through the following stages to investigate the relati
 ---
 ## Findings
 ### **1. Steps and Physical Activity**
--Academic schedules influence activity, with lecture-heavy days increasing steps and non-lecture days showing variable movement.
--Weekends demonstrate a steady increase in physical activity, likely tied to recreational or leisure activities.
+- Academic schedules influence activity, with lecture-heavy days increasing steps and non-lecture days showing variable movement.
+- Weekends demonstrate a steady increase in physical activity, likely tied to recreational or leisure activities.
 ### **2. Active Energy Burned**
 - Structured lecture days provide a baseline of activity, while non-lecture days allow for higher energy output through leisure or sports.
 ### **3. Flights Climbed**:
