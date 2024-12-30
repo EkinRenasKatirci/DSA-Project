@@ -27,7 +27,7 @@ The data was collected directly from my iPhone using the Apple Health export fea
 ### **2. Academic Schedule**:
 Collected from my university's management system. It includes:
 - **Lecture Days and Times**: Specific days, hours, and locations for each course.
-- **Free Days**: Days without scheduled lectures.[View data in .json format](./FilteredData)
+- **Free Days**: Days without scheduled lectures.[View data in .json format](./FilteredData/final_revised_schedule.json)
 ### **3. Graphs**: 
 The graphs were filtered to show the average weekdays between 25 September and 27 November and have been saved in the folder named "Average by Weekdays"  [View data on graphs](./FilteredData/Data%20Graphs/Average%20by%20Weekdays)
 ### **4. Graph Generating Code**:
