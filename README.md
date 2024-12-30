@@ -101,11 +101,13 @@ The analysis will proceed through the following stages to investigate the relati
 - Examine how weather or external factors influence these trends to develop more tailored strategies for maintaining health and well-being during university life.
 ---
 ## Repository Structure
-### ** FilteredData/**
+### FilteredData/:
 - Contains filtered health in (.csv) and academic schedule(.json) data.
-### *** FilteredData/DataGraphs/**
+### FilteredData/DataGraphs/:
 - Contains graphs of data on a monthly basis and monthly data graph generation python code.
-### *** FilteredData/DataGraphs/Average by Weekdays/**
+### FilteredData/DataGraphs/Average by Weekdays/:
 - Contains data for research question 25 September - 27 November.
-### *** FilteredData/DataGraphs/Average by Weekdays/Graph_Codes/**
+### FilteredData/DataGraphs/Average by Weekdays/Graph_Codes/:
 - Includes python code for visualization of the research question.
+### DSA-210 Report.pdf:
+-Analysis of academic schedules' impact on physical activity patterns.
