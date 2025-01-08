@@ -92,11 +92,11 @@ The analysis will proceed through the following stages to investigate the relati
 ---
 ## Limitations
 ### **1. Limited Data Scope:
-•	The project uses data from a short time period (September-November 2024). A full academic year could show seasonal trends.
+- The project uses data from a short time period (September-November 2024). A full academic year could show seasonal trends.
 ### **2.Single-User Data:
-•	The analysis is based on one person’s data, making it less generalizable. Including more participants would improve reliability.
+- The analysis is based on one person’s data, making it less generalizable. Including more participants would improve reliability.
 ### **3. Missing Influencing Factors:
-•	External factors like weather or mood were not included but might affect physical activity.
+- External factors like weather or mood were not included but might affect physical activity.
 ---
 ## Future Directions
 ### **1. Enhanced Physical Activity During Lecture Days**
