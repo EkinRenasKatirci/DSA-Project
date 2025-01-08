@@ -81,21 +81,21 @@ The analysis will proceed through the following stages to investigate the relati
 
 ---
 ## Findings
-### **1. Steps and Physical Activity**
+### **1. Steps and Physical Activity**:
 - Academic schedules influence activity, with lecture-heavy days increasing steps and non-lecture days showing variable movement.
 - Weekends demonstrate a steady increase in physical activity, likely tied to recreational or leisure activities.
-### **2. Active Energy Burned**
+### **2. Active Energy Burned**:
 - Structured lecture days provide a baseline of activity, while non-lecture days allow for higher energy output through leisure or sports.
 ### **3. Flights Climbed**:
 - Lecture days encourage moderate but consistent stair activity, often tied to class transitions.
 - Non-lecture days exhibit spontaneous, intense activity peaks, reflecting unstructured movement.
 ---
 ## Limitations
-### **1. Limited Data Scope:
+### **1. Limited Data Scope**:
 - The project uses data from a short time period (September-November 2024). A full academic year could show seasonal trends.
-### **2.Single-User Data:
+### **2.Single-User Data**:
 - The analysis is based on one person’s data, making it less generalizable. Including more participants would improve reliability.
-### **3. Missing Influencing Factors:
+### **3. Missing Influencing Factors**:
 - External factors like weather or mood were not included but might affect physical activity.
 ---
 ## Future Directions
