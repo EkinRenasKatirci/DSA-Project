@@ -90,6 +90,14 @@ The analysis will proceed through the following stages to investigate the relati
 - Lecture days encourage moderate but consistent stair activity, often tied to class transitions.
 - Non-lecture days exhibit spontaneous, intense activity peaks, reflecting unstructured movement.
 ---
+## Limitations
+### **1. Limited Data Scope:
+•	The project uses data from a short time period (September-November 2024). A full academic year could show seasonal trends.
+### **2.Single-User Data:
+•	The analysis is based on one person’s data, making it less generalizable. Including more participants would improve reliability.
+### **3. Missing Influencing Factors:
+•	External factors like weather or mood were not included but might affect physical activity.
+---
 ## Future Directions
 ### **1. Enhanced Physical Activity During Lecture Days**
 - Incorporate walking or light exercise between classes to increase movement and reduce sedentary behavior during academic hours.
