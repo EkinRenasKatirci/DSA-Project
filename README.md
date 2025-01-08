@@ -6,6 +6,7 @@ Sabancı University **DSA210: Introduction to Data Science Course** Fall 2024-20
 This project focuses on analyzing the relationship between my health metrics and academic schedule.  
 The goal is to understand how my physical activity, energy expenditure are influenced by lecture days, workloads, and overall university schedule.
 
+For the final report see [here](./DSA-210%20Report.pdf)
 ---
 
 ## Motivation
