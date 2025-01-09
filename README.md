@@ -43,6 +43,7 @@ The graph-generating code has been filtered to include data between 25 September
 - **[Pandas](https://pandas.pydata.org/):** For data cleaning, filtering, and structuring.
 - **[Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/):** For data visualization in Python.
 - **[Numpy](https://numpy.org/):** For mathematical operations.
+- **[scikit-learn](https://scikit-learn.org/):** For machine learning tasks, including Linear Regression model training and performance evaluation.
 
 ---
 
@@ -77,9 +78,8 @@ The analysis will proceed through the following stages to investigate the relati
 
 ## Overview
 This project applies **Linear Regression**, a supervised machine learning algorithm, to analyze how academic schedules influence physical activity. The goal is to predict step counts based on academic workload and understand patterns in physical activity.
-For the regression analysis python code see [here](./FiteredData/
+For the regression analysis python code see [here](.FilteredData/Machine%20Learning/regression%20analysis.py)
 
----
 
 ## Objectives
 - Predict step counts using:
@@ -88,7 +88,6 @@ For the regression analysis python code see [here](./FiteredData/
 - Evaluate the model using **Mean Squared Error (MSE)** and **R² Score**.
 - Identify factors affecting step counts during the academic term.
 
----
 
 ## Machine Learning Workflow
 
@@ -109,7 +108,6 @@ For the regression analysis python code see [here](./FiteredData/
 - **Mean Squared Error (MSE)**: 111,769.17 (high error, suggesting limitations in the model's performance).
 - **R² Score**: -0.0007 (indicates the model does not explain the variance in step counts).
 
----
 
 ## Results
 - **Coefficients**:
@@ -117,9 +115,9 @@ For the regression analysis python code see [here](./FiteredData/
   - `total_class_hours`: +2.68 (each additional class hour slightly increases step counts).
 - The model struggled to accurately predict step counts due to limited features and noisy data.
 
----
 
 ## Visualization
+For the regression analysis graph see [here](./FilteredData/Machine%20Learning/Figure_21.png)
 - **Actual vs Predicted Step Counts**: Shows alignment between predictions and actual values, with a trend line.
 - **Residual Distribution**: Visualizes the errors in predictions.
 - **Residuals vs Total Class Hours**: Explores the relationship between errors and academic workload.
