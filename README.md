@@ -53,7 +53,7 @@ The analysis will proceed through the following stages to investigate the relati
 ### **1. Data Collection**
 - **Apple Health Data**:
   - Exported from the Health app in XML format.
-  - Preprocessed into a structured format (e.g., CSV) to include metrics like steps, calories burned, sleep duration, and timestamps.
+  - Preprocessed into a structured format (e.g., CSV) to include metrics like steps, calories burned and timestamps.
 - **Academic Schedule Data**:
   - Manually organized into a JSON file containing course names, time slots, and lecture locations.
 
