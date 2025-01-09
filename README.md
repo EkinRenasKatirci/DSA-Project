@@ -109,14 +109,14 @@ For the regression analysis python code see [here](./FilteredData/Machine%20Lear
 - **R² Score**: -0.0007 (indicates the model does not explain the variance in step counts).
 
 
-## Results
+### **Results**
 - **Coefficients**:
   - `lecture_day`: -10.27 (lecture days slightly decrease step counts).
   - `total_class_hours`: +2.68 (each additional class hour slightly increases step counts).
 - The model struggled to accurately predict step counts due to limited features and noisy data.
 
 
-## Visualization
+### **Visualization**
 For the regression analysis graph see [here](./FilteredData/Machine%20Learning/Figure_21.png)
 - **Actual vs Predicted Step Counts**: Shows alignment between predictions and actual values, with a trend line.
 - **Residual Distribution**: Visualizes the errors in predictions.
