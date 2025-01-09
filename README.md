@@ -74,14 +74,14 @@ The analysis will proceed through the following stages to investigate the relati
 - Investigating step counts before, during, and after lectures.
 - Comparing total calories burned on high-workload days versus low-workload days.
 ---
-# Machine Learning
+## Machine Learning
 
-## Overview
+### **Overview**
 This project applies **Linear Regression**, a supervised machine learning algorithm, to analyze how academic schedules influence physical activity. The goal is to predict step counts based on academic workload and understand patterns in physical activity.
 For the regression analysis python code see [here](./FilteredData/Machine%20Learning/regression%20analysis.py)
 
 
-## Objectives
+### **Objectives**
 - Predict step counts using:
   - **Lecture Day**: Whether it is a lecture day (1) or not (0).
   - **Total Class Hours**: Total number of class hours in a day.
@@ -91,20 +91,20 @@ For the regression analysis python code see [here](./FilteredData/Machine%20Lear
 
 ## Machine Learning Workflow
 
-### 1. Data Preprocessing
+### **1. Data Preprocessing**
 - Merged health data (step counts) with academic schedule data.
 - Extracted features:
   - `lecture_day`: Binary feature for lecture days.
   - `total_class_hours`: Numeric feature for daily class hours.
 
-### 2. Model Selection
+### **2. Model Selection**
 - I Chose **Linear Regression** for its simplicity in predicting continuous variables.
 
-### 3. Model Training and Testing
+### **3. Model Training and Testing**
 - Split data into **training (80%)** and **testing (20%)** sets.
 - Trained the model on training data and evaluated its performance on testing data.
 
-### 4. Evaluation Metrics
+### **4. Evaluation Metrics**
 - **Mean Squared Error (MSE)**: 111,769.17 (high error, suggesting limitations in the model's performance).
 - **R² Score**: -0.0007 (indicates the model does not explain the variance in step counts).
 
