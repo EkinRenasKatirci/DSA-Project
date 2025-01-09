@@ -77,7 +77,7 @@ The analysis will proceed through the following stages to investigate the relati
 ## Machine Learning
 
 ### **Overview**
-This project applies **Linear Regression**, a supervised machine learning algorithm, to analyze how academic schedules influence physical activity. The goal is to predict step counts based on academic workload and understand patterns in physical activity.
+This technique applies **Linear Regression**, a supervised machine learning algorithm, to analyze how academic schedules influence physical activity. The goal is to predict step counts based on academic workload and understand patterns in physical activity.
 For the regression analysis python code see [here](./FilteredData/Machine%20Learning/regression%20analysis.py)
 
 
