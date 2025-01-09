@@ -74,7 +74,7 @@ The analysis will proceed through the following stages to investigate the relati
 - Investigating step counts before, during, and after lectures.
 - Comparing total calories burned on high-workload days versus low-workload days.
 ---
-# Machine Learning: Predicting Step Counts
+# Machine Learning
 
 ## Overview
 This project applies **Linear Regression**, a supervised machine learning algorithm, to analyze how academic schedules influence physical activity. The goal is to predict step counts based on academic workload and understand patterns in physical activity.
