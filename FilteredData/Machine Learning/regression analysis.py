@@ -29,7 +29,7 @@ def parse_health_data(xml_path):
     health_data['day'] = health_data['start_date'].dt.day_name()
     return health_data
 
-# 2. Load Academic Schedule Data
+# 2. Academic Schedule Data
 def parse_academic_schedule(json_path):
     with open(json_path, 'r') as file:
         data = json.load(file)
