@@ -72,6 +72,57 @@ The analysis will proceed through the following stages to investigate the relati
 #### **Activity Trends**:
 - Investigating step counts before, during, and after lectures.
 - Comparing total calories burned on high-workload days versus low-workload days.
+---
+# Machine Learning: Predicting Step Counts
+
+## Overview
+This project applies **Linear Regression**, a supervised machine learning algorithm, to analyze how academic schedules influence physical activity. The goal is to predict step counts based on academic workload and understand patterns in physical activity.
+For the regression analysis python code see [here](./FiteredData/
+
+---
+
+## Objectives
+- Predict step counts using:
+  - **Lecture Day**: Whether it is a lecture day (1) or not (0).
+  - **Total Class Hours**: Total number of class hours in a day.
+- Evaluate the model using **Mean Squared Error (MSE)** and **R² Score**.
+- Identify factors affecting step counts during the academic term.
+
+---
+
+## Machine Learning Workflow
+
+### 1. Data Preprocessing
+- Merged health data (step counts) with academic schedule data.
+- Extracted features:
+  - `lecture_day`: Binary feature for lecture days.
+  - `total_class_hours`: Numeric feature for daily class hours.
+
+### 2. Model Selection
+- I Chose **Linear Regression** for its simplicity in predicting continuous variables.
+
+### 3. Model Training and Testing
+- Split data into **training (80%)** and **testing (20%)** sets.
+- Trained the model on training data and evaluated its performance on testing data.
+
+### 4. Evaluation Metrics
+- **Mean Squared Error (MSE)**: 111,769.17 (high error, suggesting limitations in the model's performance).
+- **R² Score**: -0.0007 (indicates the model does not explain the variance in step counts).
+
+---
+
+## Results
+- **Coefficients**:
+  - `lecture_day`: -10.27 (lecture days slightly decrease step counts).
+  - `total_class_hours`: +2.68 (each additional class hour slightly increases step counts).
+- The model struggled to accurately predict step counts due to limited features and noisy data.
+
+---
+
+## Visualization
+- **Actual vs Predicted Step Counts**: Shows alignment between predictions and actual values, with a trend line.
+- **Residual Distribution**: Visualizes the errors in predictions.
+- **Residuals vs Total Class Hours**: Explores the relationship between errors and academic workload.
 
 ---
 
