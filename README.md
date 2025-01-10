@@ -9,7 +9,18 @@ The goal is to understand how my physical activity, energy expenditure are influ
 For the final report see [here](./DSA-210%20Report.pdf).    
 For a detailed analysis of the hypothesis, research questions, and visualizations, please check the [website](https://ekin-renas-katirci-dsa-210.netlify.app) I prepared for this project.
 ---
-
+## Table of Contents
+1. [Description](#description)
+2. [Motivation](#motivation)
+3. [Data Source](#data-source)
+4. [Tools](#tools)
+5. [Data Analysis](#data-analysis)
+6. [Machine Learning](#machine-learning)
+7. [Research Question](#research-question)
+8. [Findings](#findings)
+9. [Limitations](#limitations)
+10. [Future Directions](#future-directions)
+---
 ## Motivation
 
 While brainstorming for this project, I realized that I could explore the connection between my health habits and my academic routine. As a student, my daily routine is heavily shaped by lecture times and class durations.
