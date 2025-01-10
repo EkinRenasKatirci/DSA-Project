@@ -10,16 +10,16 @@ For the final report see [here](./DSA-210%20Report.pdf).
 For a detailed analysis of the hypothesis, research questions, and visualizations, please check the [website](https://ekin-renas-katirci-dsa-210.netlify.app) I prepared for this project.
 ---
 ## Table of Contents
-1. [Description](#description)
-2. [Motivation](#motivation)
-3. [Data Source](#data-source)
-4. [Tools](#tools)
-5. [Data Analysis](#data-analysis)
-6. [Machine Learning](#machine-learning)
-7. [Research Question](#research-question)
-8. [Findings](#findings)
-9. [Limitations](#limitations)
-10. [Future Directions](#future-directions)
+- [Description](#description)
+- [Motivation](#motivation)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Analysis](#data-analysis)
+- [Machine Learning](#machine-learning)
+- [Research Question](#research-question)
+- [Findings](#findings)
+- [Limitations](#limitations)
+- [Future Directions](#future-directions)
 ---
 ## Motivation
 
