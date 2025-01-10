@@ -19,7 +19,7 @@ For a detailed analysis of the hypothesis, research questions, and visualization
 - [Research Question](#research-question)
 - [Findings](#findings)
 - [Limitations](#limitations)
-- [Future Directions](#future-directions)
+- [Future Directions](#future-work)
 ---
 ## Motivation
 
@@ -160,7 +160,7 @@ For the regression analysis graph see [here](./FilteredData/Machine%20Learning/F
 ### **3. Missing Influencing Factors**:
 - External factors like weather or mood were not included but might affect physical activity.
 ---
-## Future Directions
+## Future Work
 ### **1. Enhanced Physical Activity During Lecture Days**
 - Incorporate walking or light exercise between classes to increase movement and reduce sedentary behavior during academic hours.
 ### **2. Leverage Weekends for Physical Engagement**
