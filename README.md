@@ -27,7 +27,6 @@ While brainstorming for this project, I realized that I could explore the connec
 
 The motivation behind this analysis is to uncover patterns such as:
 - **How my physical activity levels vary on lecture days versus non-lecture days.**
-- **Whether certain class times correlate with increased or decreased activity levels.**
 - **How academic schedules impact overall health, helping to identify patterns that might inform healthier routines.**
 
 ---
