@@ -161,11 +161,14 @@ For the regression analysis graph see [here](./FilteredData/Machine%20Learning/F
 - External factors like weather or mood were not included but might affect physical activity.
 ---
 ## Future Work
-### **1. Enhanced Physical Activity During Lecture Days**
-- Incorporate walking or light exercise between classes to increase movement and reduce sedentary behavior during academic hours.
-### **2. Leverage Weekends for Physical Engagement**
-- Students can utilize weekends for more diverse and intensive activities to maintain a balanced routine.
-### **3. Further Analysis of Activity Patterns**
-- Explore correlations between academic workload and physical activity over a broader timeline.
-- Examine how weather or external factors influence these trends to develop more tailored strategies for maintaining health and well-being during university life.
+
+1. **Longitudinal Analysis**  
+- To gain a deeper understanding of how academic schedules impact physical activity, future work could incorporate data spanning multiple academic terms or years. This would provide insights into seasonal trends and long-term behavior changes.
+
+2. **Advanced Machine Learning Techniques**  
+- By exploring advanced machine learning algorithms, such as decision trees or ensemble methods, the accuracy of activity prediction models could be improved. Additionally, feature engineering could include external factors like weather or mood to refine predictions.
+
+3. **Incorporating Diverse Data Sources**  
+- Expanding the dataset to include more participants or incorporating other health metrics (e.g., sleep patterns, stress levels) could improve generalizability and reveal new correlations.
+
 ---
