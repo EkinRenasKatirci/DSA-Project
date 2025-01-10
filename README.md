@@ -19,7 +19,7 @@ For a detailed analysis of the hypothesis, research questions, and visualization
 - [Research Question](#research-question)
 - [Findings](#findings)
 - [Limitations](#limitations)
-- [Future Directions](#future-work)
+- [Future Work](#future-work)
 ---
 ## Motivation
 
